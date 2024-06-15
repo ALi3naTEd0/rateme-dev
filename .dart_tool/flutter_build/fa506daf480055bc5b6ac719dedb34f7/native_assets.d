@@ -1,0 +1,1 @@
+ /home/x/rateme/.dart_tool/flutter_build/fa506daf480055bc5b6ac719dedb34f7/native_assets.yaml: 
